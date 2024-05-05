@@ -1,16 +1,9 @@
-﻿# Connectify
- 
 <div align="center">
   <br />
-    <a href="https://samanvay-connectify.vercel.app/" target="_blank">
-      <img src="https://github.com/tanjul17/Connectify/assets/97596364/8f3733b7-b2d3-480c-9333-83ba38566bc7" alt="Project Banner">
-    </a>
+<!--     <a href="https://samanvay-connectify.vercel.app/" target="_blank"> -->
+     <img src="https://github.com/tanjul17/Connectify/assets/97596364/bce711f7-726f-49c2-b787-3ce3929cf48e">
+<!--     </a> -->
   <br />
-  <div>
-    <img src="https://img.shields.io/badge/-TypeScript-black?style=for-the-badge&logoColor=white&logo=typescript&color=3178C6" alt="typescript" />
-    <img src="https://img.shields.io/badge/-Next_JS-black?style=for-the-badge&logoColor=white&logo=nextdotjs&color=000000" alt="nextdotjs" />
-    <img src="https://img.shields.io/badge/-Tailwind_CSS-black?style=for-the-badge&logoColor=white&logo=tailwindcss&color=06B6D4" alt="tailwindcss" />
-  </div>
 
 ## <h3 align="center">Connectify - A  Video Conferencing App for Samanvay Users.</h3>
 
